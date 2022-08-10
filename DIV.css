@@ -1,0 +1,65 @@
+body{
+    margin:0;
+
+    
+}
+
+.estilo-cabecalho{
+    float:right;
+    background-color:black;
+    width: 70%;
+    height: 100px;
+}
+
+.estilo-menu{
+    float:left;
+    background-color:grey;
+    width: 30%;
+    height: 965px;
+}
+
+.estilo-corpo{
+    float:left;
+    background-color:white;
+    width: 70%;
+    height: 700px;
+}
+
+.estilo-button{
+    background-color:#088A68;
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 2px;
+    color:white;
+    margin-top:20px;
+    margin-left:575px;
+    cursor: pointer;
+}
+
+.estilo-button:hover{
+    background-color:#04B486;
+    border: none
+}
+
+.nome2{
+    padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  border: 1px solid #CCC;
+  border-radius: 2px;
+    margin-top:3px;
+     margin-left:500px;
+    font-family: Arial;
+
+}
+#altair{
+    margin-top:200px;
+}
+
+.titulo{
+    color:white;
+    margin-left: 525px;
+    font-family: arial;
+}
